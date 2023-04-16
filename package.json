@@ -1,0 +1,19 @@
+{
+  "name": "sfkrishna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielfoley/sfkrishna.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielfoley/sfkrishna/issues"
+  },
+  "homepage": "https://github.com/gabrielfoley/sfkrishna#readme"
+}
